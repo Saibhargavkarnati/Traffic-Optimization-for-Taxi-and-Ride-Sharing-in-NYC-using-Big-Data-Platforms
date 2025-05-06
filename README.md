@@ -72,7 +72,4 @@ All data was stored and accessed via **AWS S3 Buckets** for scalability and clou
 - Integrate real-time streaming using Kafka and Spark Streaming
 - Use Edge AI and Federated Learning for privacy-focused, real-time predictions
 
----
-
-## 🗂️ Repository Structure
 
