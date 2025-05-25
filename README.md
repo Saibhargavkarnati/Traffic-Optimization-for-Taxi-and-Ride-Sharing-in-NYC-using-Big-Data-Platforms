@@ -39,14 +39,14 @@ All data was stored and accessed via **AWS S3 Buckets** for scalability and clou
 | Visualization      | Matplotlib, Seaborn                 |
 | Development        | Google Colab                        |
 
-### ⚡ Why Apache Spark?
+### Why Apache Spark?
 - Handles large-scale datasets efficiently
 - Supports distributed computing for fast processing
 - Built-in MLlib for scalable machine learning
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - Top 10 congested segments identified by time of day
 - Peak yellow cab demand around **5–7 PM** in Midtown
