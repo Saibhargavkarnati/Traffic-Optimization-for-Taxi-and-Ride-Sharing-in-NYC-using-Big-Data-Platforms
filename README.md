@@ -10,7 +10,7 @@ This project aims to optimize traffic flow and improve ride-sharing efficiency i
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 - Identify traffic congestion patterns by time and location
 - Predict vehicle volume across NYC road segments
@@ -19,7 +19,7 @@ This project aims to optimize traffic flow and improve ride-sharing efficiency i
 
 ---
 
-## 🗃️ Data Sources
+## Data Sources
 
 - [NYC Yellow Taxi Trip Data (Parquet)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - [NYC Traffic Volume Counts (CSV)](https://data.cityofnewyork.us/)
@@ -29,7 +29,7 @@ All data was stored and accessed via **AWS S3 Buckets** for scalability and clou
 
 ---
 
-## 🔧 Tools and Technologies
+## Tools and Technologies
 
 | Category           | Tools Used                          |
 |--------------------|-------------------------------------|
@@ -55,7 +55,7 @@ All data was stored and accessed via **AWS S3 Buckets** for scalability and clou
 
 ---
 
-## 🎯 Recommendations
+## Recommendations
 
 - Optimize real-time driver distribution based on predicted congestion
 - Avoid dispatching drivers to highly congested areas during peak hours
@@ -63,7 +63,7 @@ All data was stored and accessed via **AWS S3 Buckets** for scalability and clou
 
 ---
 
-## 📈 Visual Outputs
+## Visual Outputs
 
 - Traffic Volume Trend (24 hours)
 - Volatility by Road Segment
@@ -72,7 +72,7 @@ All data was stored and accessed via **AWS S3 Buckets** for scalability and clou
 
 ---
 
-## 🧠 Future Opportunities
+## Future Opportunities
 
 - Incorporate weather, event, and social data
 - Integrate real-time streaming using Kafka and Spark Streaming
