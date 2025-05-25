@@ -1,3 +1,9 @@
+## Contributors
+
+- **Abhinav Varma Vathadi**
+- **Bhargav**
+- **Sriram**
+  
 # 🚕 Traffic Optimization for Taxi and Ride-Sharing in NYC using Big Data Platforms
 
 This project aims to optimize traffic flow and improve ride-sharing efficiency in New York City by leveraging big data platforms. By analyzing traffic volume and ride-sharing data using scalable tools like Apache Spark and AWS S3, we built a predictive model that helps forecast congestion and suggests actionable insights for city planners and transportation platforms.
